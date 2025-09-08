@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Chandel</h1>
-<h3 align="center">Full Stack Developer skilled in MERN stack.</h3>
+<h3 align="center">Full Stack Developer skilled in MERN stack. With strong problem-solving, collaboration and communication skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
