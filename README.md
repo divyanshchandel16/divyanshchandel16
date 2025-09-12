@@ -1,10 +1,5 @@
-<!-- Classy Dark Banner (Unsplash, free for use) -->
-![header](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80)
-
 <h1 align="center">Hi 👋, I'm Divyansh Chandel</h1>
 <h3 align="center">Full-stack MERN developer with a passion for problem-solving and modern web architectures</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p>
   <span>📍 Chandigarh, India</span><br>
@@ -15,8 +10,8 @@
 </p>
 
 <!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=divyanshchandel16&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshchandel16" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=divyanshchandel16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -62,4 +57,35 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshchandel16&show_icons=true&theme=dark" alt="divyanshchandel16" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshchandel16&layout=compact&theme=dark" alt="divyanshchandel16" />
+</p>
