@@ -5,7 +5,7 @@
 💡 **Building scalable, performant applications and exploring system design best practices**  
 🚀 **Participated in multiple hackathons**  
 ⚡ **Fun fact:** I love football and Formula 1  
-📧 **[divyanshchandel16@gmail.com](mailto:divyanshchandel16@gmail.com)**
+📧 **Email:** [divyanshchandel16@gmail.com](mailto:divyanshchandel16@gmail.com)
 
 <!-- Profile Views Counter -->
 <p align="left"> 
@@ -17,8 +17,8 @@
 ## 🔗 Connect & Explore
 
 <p align="left">
-  <a href="https://linkedin.com/in/username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/divyansh-chandel-84b7141ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_🔗-2D3748?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://drive.google.com/file/d/1T8BTYIPnPaNeBDT9TDVKMOhlmARAqD-2/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume_📄-2D3748?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
