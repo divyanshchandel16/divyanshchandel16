@@ -4,7 +4,7 @@
 📍 Chandigarh, India  
 💡 **Building scalable, performant applications and exploring system design best practices**  
 🚀 **Participated in multiple hackathons**  
-⚡ **Fun fact:** I love football and Formula 1  
+⚡ **Fun fact:** I love Football and Formula 1  
 📧 **Email:** [divyanshchandel16@gmail.com](mailto:divyanshchandel16@gmail.com)
 
 <!-- Profile Views Counter -->
