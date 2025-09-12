@@ -1,10 +1,5 @@
-<!-- Classy Dark Banner (Unsplash, you can replace with your own if you upload one) -->
-![header](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80)
-
 <h1 align="center">Hi 👋, I'm Divyansh Chandel</h1>
 <h3 align="center">Full-stack MERN developer with a passion for problem-solving and modern web architectures</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 📍 Chandigarh, India  
 💡 **Building scalable, performant applications and exploring system design best practices**  
